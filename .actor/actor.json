@@ -1,0 +1,11 @@
+{
+  "actorSpecification": 1,
+  "name": "mcp-server-apify-starter",
+  "title": "MCP Server Apify Starter",
+  "description": "Production-ready starter for a pay-per-use MCP server on Apify. Replace the example tools with your own.",
+  "version": "0.1",
+  "buildTag": "latest",
+  "environmentVariables": {},
+  "dockerfile": "./Dockerfile",
+  "usesStandbyMode": true
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "eventName": "summarize-text",
+    "eventTitle": "Summarize Text",
+    "eventDescription": "Summarize a block of text into N sentences using Claude Haiku.",
+    "eventPriceUsd": 0.01
+  }
+]
