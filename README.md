@@ -133,8 +133,6 @@ Apify Standby actors accept an Apify API token as `Authorization: Bearer <token>
 - **Not** Stripe or x402 billing. Those are separate patterns; this one uses Apify's built-in billing rail because it's the fastest path to paying customers today.
 - **Not** an all-in-one agent framework. One server, one job, composable.
 
-For a Stripe/x402 version, watch this org — we'll ship it next.
-
 ## See it in production
 
 The authors run live MCP servers built on this same pattern:
@@ -143,6 +141,8 @@ The authors run live MCP servers built on this same pattern:
 - **[Google Reviews Scraper](https://apify.com/godberry/google-reviews-scraper)** — from `$0.10` / place.
 
 If you ship something with this starter, tell us at **hello@godberrystudios.com** and we'll link it back.
+
+Build-log notes and shipping moments go up on our Facebook page → **[Godberry Studios](https://www.facebook.com/profile.php?id=61570965581596)**.
 
 ## Contributing
 
