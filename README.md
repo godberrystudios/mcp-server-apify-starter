@@ -139,6 +139,7 @@ The authors run live MCP servers built on this same pattern:
 
 - **[Content-to-Social MCP Server](https://apify.com/godberry/content-to-social-mcp)** — `$0.07` / call.
 - **[Google Reviews Scraper](https://apify.com/godberry/google-reviews-scraper)** — from `$0.10` / place.
+- **[Yelp Scraper](https://apify.com/godberry/yelp-scraper)** — pay-per-event ($0.004 / business, $0.0008 / review).
 
 If you ship something with this starter, tell us at **hello@godberrystudios.com** and we'll link it back.
 
