@@ -15,7 +15,7 @@ Most MCP tutorials leave you with a `stdio` demo running on localhost. That's no
 - **Billing** — how do you charge per call without building a Stripe integration?
 - **Distribution** — how do agents actually find and authenticate against your server?
 
-This starter gives you all four, wired end-to-end, using **[Apify Actors](https://apify.com/actors)** as the runtime and their **pay-per-event** billing.
+This starter gives you all four, wired end-to-end, using **[Apify Actors](https://apify.com/actors?fpr=ewv9tm)** as the runtime and their **pay-per-event** billing.
 
 ## What you get
 
@@ -137,9 +137,9 @@ Apify Standby actors accept an Apify API token as `Authorization: Bearer <token>
 
 The authors run live MCP servers built on this same pattern:
 
-- **[Content-to-Social MCP Server](https://apify.com/godberry/content-to-social-mcp)** — `$0.07` / call.
-- **[Google Reviews Scraper](https://apify.com/godberry/google-reviews-scraper)** — from `$0.10` / place.
-- **[Yelp Scraper](https://apify.com/godberry/yelp-scraper)** — pay-per-event ($0.004 / business, $0.0008 / review).
+- **[Content-to-Social MCP Server](https://apify.com/godberry/content-to-social-mcp?fpr=ewv9tm)** — `$0.07` / call.
+- **[Google Reviews Scraper](https://apify.com/godberry/google-reviews-scraper?fpr=ewv9tm)** — from `$0.10` / place.
+- **[Yelp Scraper](https://apify.com/godberry/yelp-scraper?fpr=ewv9tm)** — pay-per-event ($0.004 / business, $0.0008 / review).
 
 If you ship something with this starter, tell us at **hello@godberrystudios.com** and we'll link it back.
 
